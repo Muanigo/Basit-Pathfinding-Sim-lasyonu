@@ -67,3 +67,6 @@ S * * * * * * * * * * * * * * * * * *
 Çalıştırın:
 
 ./pathfinding
+
+Not:Çalıştırma örneğini yapmakta baya bi zorlandım eğer anlaşılmazsa özür dilerim
+
